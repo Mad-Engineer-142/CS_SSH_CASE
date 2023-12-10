@@ -1,6 +1,6 @@
 # SSHClient
 
-![Logo]()
+![Logo](logo.png)
 
 ## Описание
 
